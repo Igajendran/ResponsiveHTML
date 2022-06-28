@@ -1,0 +1,8 @@
+Git log:displays all the previous commits
+git add(space)--all :to stage the files
+git pull:to get the latest files from github repository
+git push:to pull our changes to github
+git commit(space) -m(space)"changes done in text"
+git show:shows the code changes in the 
+git status: to know the status
+git m --"changes done so far"
